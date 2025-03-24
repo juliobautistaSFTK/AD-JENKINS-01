@@ -6,14 +6,14 @@
 [Ver](Instrucciones/Readme_participante.md)
 
 
-# **Ejercicio: Uso de GITHUB, git clone, git pull, git push, git compare, deshacer un merge, borrar un Branch, Action manual y automáticos.**
+# **Ejercicio: Uso de JENKINS, programar tareas en Jenkins, Instalar plugins, ejecución estándar, ejecución pipeline, interactuar con otras herramientas.**
 
 Prerrequisito: Conocimientos básicos en uso de repositorios.
 
 # **Objetivos:**
-1. Uso de comandos básicos.
-2. Uso de branch.
-3. Uso de Actions.
+1. Instalar Jenkins y plugins.
+2. Creación de tareas.
+3. Creación de un pipeline.
 
 
 # **Cómo evaluar:**
